@@ -1,0 +1,3 @@
+# 2차 탐지 모델(GUARD_MODEL)을 쓸 때만 설치
+torch
+transformers

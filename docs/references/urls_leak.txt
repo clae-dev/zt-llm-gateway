@@ -1,0 +1,10 @@
+https://arxiv.org/abs/2405.06823
+https://arxiv.org/abs/2408.02416
+https://arxiv.org/abs/2412.13426
+https://arxiv.org/abs/2505.11459
+https://arxiv.org/abs/2507.15613
+https://arxiv.org/abs/2510.01529
+https://arxiv.org/abs/2605.23196
+https://genai.owasp.org/llmrisk/llm072025-system-prompt-leakage/
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003089525
+https://github.com/salesforce/prompt-leakage

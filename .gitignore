@@ -1,0 +1,21 @@
+__pycache__/
+.pytest_cache/
+.env
+data/
+models/
+datasets/raw/
+
+# AI Hub 원문과 그 문장이 든 측정 결과(xlsx·log·txt)는 약관상 저장소에 올리지 않는다. 코드(.py)만 올린다.
+datasets/external/**
+!datasets/external/**/
+!datasets/external/**/*.py
+
+# 팀 내부 문서 (개발 계획서, 중간정리)
+docs/plan/
+docs/summary/
+
+# 빌드 검수용 화면 캡처
+**/_check/
+
+# 내려받은 공개 모델 카드 사본 (원문은 각 모델 저장소에 있음)
+eval/baselines/*_README.md
